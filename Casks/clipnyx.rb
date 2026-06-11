@@ -1,6 +1,6 @@
 cask "clipnyx" do
-  version "1.3.6"
-  sha256 "811e7c0e39cd2b84b5ffe5861f0bf71c6683447a439b01ea11929c49e458e46d"
+  version "1.4.0"
+  sha256 "b32075b68f8eda69505bfef3fdac3a3f74853309368404c6ceeeac76654c9269"
 
   url "https://github.com/sawasige/clipnyx/releases/download/v#{version}/Clipnyx.dmg"
   name "Clipnyx"
